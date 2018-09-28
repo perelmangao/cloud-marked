@@ -25,9 +25,9 @@ Our [documentation pages](https://marked.js.org) are also rendered using marked 
 
 ## Installation
 
-**CLI:** `npm install -g marked`
+**CLI:** `npm install -g cloud-marked`
 
-**In-browser:** `npm install marked --save`
+**In-browser:** `npm install cloud-marked --save`
 
 ## Usage 
 
