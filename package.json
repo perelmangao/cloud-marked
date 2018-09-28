@@ -2,7 +2,7 @@
   "name": "cloud-marked",
   "description": "A markdown parser built for speed modify for Chinese ids",
   "author": "gpw0426",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "./lib/marked.js",
   "bin": "./bin/marked",
   "man": "./man/marked.1",
